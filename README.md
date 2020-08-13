@@ -6,7 +6,7 @@ This source code is for sharing deep learning-based segmentation model in CXR. I
 * Keras >= 2.0
 * Tensorflow >= 1.11
 * opencv
-* segmentation_models
+* segmentation-models
 
 # Diagram
 ![Diagram](/img/Diagram.png)
