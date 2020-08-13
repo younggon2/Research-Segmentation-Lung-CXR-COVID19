@@ -1,4 +1,4 @@
-# Research-Segmentation-LungCOVID19
+# Research on lung segmentation for COVID19 patients in CXR
 This source code is for sharing deep learning-based segmentation model in CXR. It has been validated for COVID19 patients as well.
 
 # Pre-requisities
