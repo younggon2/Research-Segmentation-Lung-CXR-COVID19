@@ -1,14 +1,11 @@
-http://github.com - automatic!
-[GitHub](http://github.com)
-
 # Research on lung segmentation for COVID19 patients in CXR
 This source code is for sharing deep learning-based segmentation model in CXR. It has been validated for COVID19 patients as well.
 
 # Pre-requisities
-* Python 3.5
+* Python == 3.5
 * Keras >= 2.0
 * Tensorflow >= 1.11
-* opencv
+* OpenCV
 * [segmentation-models](https://github.com/qubvel/segmentation_models)
 * [keras-retinanet](https://github.com/fizyr/keras-retinanet)
 
@@ -29,7 +26,7 @@ An example of advantages of the ensemble method for different quality of CXRs. T
 
 An example of detection results for the left hilum colored at red and carina colored at green and, dividing segmented lung mask into upper and lower lungs, i.e., RUL, LUL, RLL, and LLL with a reference point colored at while. (a) detection results for the left hilum (confidence: 0.94) and the carina (0.98). (b) A center point of the detection box for the left hilum is used as the reference point to divide upper and lower lungs. (c) detection results for the left hilum (0.56) and carina (0.95). (d) A location down to approximately 2cm vertically from a center point of the detection box for the carina is used as the reference point to divide upper and lower lungs.
 
-# Correlation
+# Correlation of mean intensity for segmented lung with extent score
 ![CorrelationWithExtent](/img/CorrelationWithExtent.png)
 
 Boxplots of mean intensities with extent scores (0-4) for four regions. (a) LUL, (b) RUL, (c) LLL, (d) RLL.
