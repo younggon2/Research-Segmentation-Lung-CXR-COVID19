@@ -9,7 +9,6 @@ This source code is for sharing deep learning-based segmentation model in CXR. I
 * [segmentation-models (For segmentation model)] (https://github.com/qubvel/segmentation_models)
 * [keras-retinanet (For detection model) (https://github.com/fizyr/keras-retinanet)
 
-[GitHub](http://github.com)
 
 # Diagram
 ![Diagram](/img/Diagram.png)
