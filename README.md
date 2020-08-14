@@ -1,3 +1,6 @@
+http://github.com - automatic!
+[GitHub](http://github.com)
+
 # Research on lung segmentation for COVID19 patients in CXR
 This source code is for sharing deep learning-based segmentation model in CXR. It has been validated for COVID19 patients as well.
 
@@ -6,8 +9,8 @@ This source code is for sharing deep learning-based segmentation model in CXR. I
 * Keras >= 2.0
 * Tensorflow >= 1.11
 * opencv
-* [segmentation-models (For segmentation model)] (https://github.com/qubvel/segmentation_models)
-* [keras-retinanet (For detection model) (https://github.com/fizyr/keras-retinanet)
+* [segmentation-models](https://github.com/qubvel/segmentation_models)
+* [keras-retinanet](https://github.com/fizyr/keras-retinanet)
 
 
 # Diagram
@@ -31,7 +34,7 @@ An example of detection results for the left hilum colored at red and carina col
 
 Boxplots of mean intensities with extent scores (0-4) for four regions. (a) LUL, (b) RUL, (c) LLL, (d) RLL.
 
-# Reference
+# Reference (Github)
 
 1. https://github.com/qubvel/segmentation_models
 2. https://github.com/fizyr/keras-retinanet
