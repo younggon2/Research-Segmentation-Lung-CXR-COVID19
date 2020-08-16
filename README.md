@@ -21,7 +21,7 @@ A flowchart of the proposed algorithm for segmentation of zones of the lung in C
 
 An example of advantages of the ensemble method for different quality of CXRs. The first to last row in each column shows an input CXR, an ground truth mask, an ensemble result, and five results predicted by the first to fifth model. (a) A clear CXR that shows none of severe noise from a portable device and obstacles like medical devices, (b) a lung mask of (a), (c) an ensemble mask from the first to the fifth masks (d)-(h). Dice coefficients of (c)-(h) are 0.955, 0.928, 0912, 0.948, 0.948, and 0.948, respectively. (i) An CXR showing severe blurry within both lung regions due to lung opacity, (j) a lung mask of (i), (k) an ensemble mask from the first to the fifth masks (l)-(p). Dice coefficients of (k)-(p) are 0.955, 0.928, 0912, 0.948, 0.948, and 0.948, respectively. (q) An CXR showing sever noise generated from a portable device, (r) a lung mask of (q), (s) an ensemble mask from the first to the fifth masks (t)-(x). Dice coefficients of (s)-(x) are 0.899, 0.783, 0.885, 0.883, 0.879, and 0.903, respectively.
 
-# Detection result and segmentation for four regions (mAP: 0.58 for a private dataset)
+# Detection result and segmentation for four regions (mAP: 0.69 for a private dataset)
 
 ![Detection](/img/DetectionResult.png)
 
