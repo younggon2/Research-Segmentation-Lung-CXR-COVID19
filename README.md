@@ -5,6 +5,7 @@ This source code is for sharing deep learning-based segmentation model in CXR. I
 * Python == 3.5
 * Keras >= 2.0
 * Tensorflow >= 1.11
+* Scipy
 * OpenCV
 * [segmentation-models](https://github.com/qubvel/segmentation_models)
 * [keras-retinanet](https://github.com/fizyr/keras-retinanet)
