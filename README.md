@@ -35,14 +35,16 @@ Boxplots of mean intensities with extent scores (0-4) for four regions. (a) LUL,
 # Citation (arxiv)
 If you find this study useful in your research, please consider citing this project.
 
-
+```rb
 @article{kim2020deep,
   title={Deep Learning-based Four-region Lung Segmentation in Chest Radiography for COVID-19 Diagnosis},
   author={Kim, Young-Gon and Kim, Kyungsang and Wu, Dufan and Ren, Hui and Tak, Won Young and Park, Soo Young and Lee, Yu Rim and Kang, Min Kyu and Park, Jung Gil and Kim, Byung Seok and others},
   journal={arXiv preprint arXiv:2009.12610},
   year={2020}
 }
-https://arxiv.org/abs/2009.12610
+```
+URL: https://arxiv.org/abs/2009.12610
+
 
 # Reference (Github)
 
